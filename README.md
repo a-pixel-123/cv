@@ -55,8 +55,3 @@ BSc in Chemical Engineering
 - Academic Excellence Scholarship (2021 Fall)
 - Academic Excellence Scholarship (2025 Spring)
 - Dean’s List for Academic Excellence (2025 Spring)
-
-
----
-
-📄 [Download PDF CV](./CV_2021314266_안광현.pdf)
