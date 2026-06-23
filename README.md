@@ -24,14 +24,14 @@ BSc in Chemical Engineering
 
 ## Projects
 
-### Research on AI-Driven Anomaly Detection and Fault Resolution Using PLC Operational Data
+### RT-FAD: A Response Time-Based Fault Diagnosis Framework for PLC-Controlled Pneumatic Systems
 
 - Smart Factory Capstone Design Project for 2026 Spring semester.
 - Developed an AI-based time-series model to detect equipment anomalies and infer root causes using PLC operational data, enabling data-driven predictive maintenance in smart factory environments.
 - List for research papers:
   - DTAAD: Dual TCN-Attention Networks for Anomaly Detection in Multivariate Time Series Data. (Personal)
   - Industrial Robot Control System with a Predictive Maintenance Module Using IIoT Technology. (Team)
-- Registered a patent and software (SW) for the RT-FAD system, a PLC response time and load data-based pneumatic cylinder fault diagnosis and aging detection system.
+- Registered a patent and software for the RT-FAD system.
 
 ### Analysis of Transistor Performance Based on High-k Materials and Oxide Thickness
 
