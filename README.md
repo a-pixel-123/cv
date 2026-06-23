@@ -24,19 +24,20 @@ BSc in Chemical Engineering
 
 ## Projects
 
+### Research on AI-Driven Anomaly Detection and Fault Resolution Using PLC Operational Data
+
+- Smart Factory Capstone Design Project for 2026 Spring semester.
+- Developed an AI-based time-series model to detect equipment anomalies and infer root causes using PLC operational data, enabling data-driven predictive maintenance in smart factory environments.
+- List for Research papers:
+  - DTAAD: Dual TCN-Attention Networks for Anomaly Detection in Multivariate Time Series Data. (Personal)
+  - Industrial Robot Control System with a Predictive Maintenance Module Using IIoT Technology. (Team)
+- Registered a patent and software (SW) for the RT-FAD system, a PLC response time and load data-based pneumatic cylinder fault diagnosis and aging detection system.
+
 ### Analysis of Transistor Performance Based on High-k Materials and Oxide Thickness
 
 - Undergraduate Research Club Project (2025 Fall)
 - Simulation-based study on MOSFET performance using high-k dielectrics.
 - Analyzed trade-offs between gate control and leakage current using NanoHUB tools.
-
-
-### Research on AI-Driven Anomaly Detection and Fault Resolution Using PLC Operational Data
-
-- Smart Factory Capstone Design Project (2026 Spring)
-- Developed AI-based time-series models for equipment anomaly detection.
-- Applied data-driven maintenance methods for smart factory environments.
-
 
 ### AI-Based Anomaly Detection in ALE Processes
 
